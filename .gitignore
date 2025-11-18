@@ -1,0 +1,17 @@
+# large model files
+*.pth
+
+# data
+data/
+*.csv
+
+# predictions / outputs
+predictions/
+results_grid.png
+
+# python junk
+__pycache__/
+*.pyc
+.env
+.venv
+
